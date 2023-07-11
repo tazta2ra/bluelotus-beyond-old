@@ -41,7 +41,7 @@
     <li><font size="4">And many, many more...</font></li>
     
 </ul>
-<img src="https://cdn.modrinth.com/data/noyBVGuL/images/020976162c37e8a23759e46d9b040f0b31929963.png" alt="Screenshot of a very cool modpack" width="1377" height="810">
+<img src="https://cdn.modrinth.com/data/noyBVGuL/images/020976162c37e8a23759e46d9b040f0b31929963.png" alt="Screenshot of a very cool modpack">
 
 <hr>
 <center>
