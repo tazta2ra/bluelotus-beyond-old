@@ -1,0 +1,27 @@
+version:3120
+autoJump:false
+snooperEnabled:false
+guiScale:3
+maxFps:260
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+
+key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
+key_gui.xaero_instant_waypoint:key.keyboard.unknown
+key_gui.xaero_toggle_slime:key.keyboard.unknown
+key_gui.xaero_toggle_grid:key.keyboard.unknown
+key_gui.xaero_toggle_waypoints:key.keyboard.unknown
+key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown
+key_gui.xaero_toggle_map:key.keyboard.unknown
+key_gui.xaero_enlarge_map:key.keyboard.z
+key_gui.xaero_waypoints_key:key.keyboard.unknown
+key_gui.xaero_zoom_in:key.keyboard.unknown
+key_gui.xaero_zoom_out:key.keyboard.unknown
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_[Fabrication] Crawl:key.keyboard.r
+
+soundCategory_ambient:0.5

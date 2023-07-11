@@ -1,0 +1,63 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_433
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=606306%
+  orientation = bottom-left
+  x = 2
+  action = movebutton
+  y = -24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_stats_button
+  buttonaction = openlink;https://github.com/tazta2ra/bluelotus-beyond/issues%btnaction_splitter_fm%
+  x = 0
+  width = 98
+  action = addbutton
+  actionid = 42f08b42-f9d5-4840-8e50-978a62a9dab21688130845490
+  y = 24
+  label = Report bugs
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_advancements_button
+  buttonaction = openlink;https://github.com/tazta2ra/bluelotus-beyond%btnaction_splitter_fm%
+  x = 0
+  width = 98
+  action = addbutton
+  actionid = c051baf0-bbb9-4a59-a55f-c8a1bb29bfc31688130988842
+  y = 24
+  label = Visit Source code
+  height = 20
+}
+
