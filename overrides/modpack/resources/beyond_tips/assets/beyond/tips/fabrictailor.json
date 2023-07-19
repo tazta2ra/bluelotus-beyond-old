@@ -1,0 +1,10 @@
+{
+  "title": {
+    "text": "Fabric Tailor",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "text": "You can change your skin server side by pressing K or using the /skin command!"
+  }
+}

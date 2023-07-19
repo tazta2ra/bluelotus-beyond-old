@@ -5,7 +5,10 @@
     "file/Chat Reporting Helper.zip",
     "file/EBE_1.20.x_v1.1.zip",
     "continuity/default",
-    "continuity/glass_pane_culling_fix"
+    "continuity/glass_pane_culling_fix",
+    "file/EmbellishedStone-1.19.3-1.0.0.zip",
+    "$polymer-resources",
+    "beyond_vanillatweaks"
   ],
   "default_overrides": {
     "force_compatible": true
@@ -17,10 +20,14 @@
     },
 
     "required_packs": [
-      "file/Chat Reporting Helper.zip",
       "file/EBE_1.20.x_v1.1.zip"
     ],
     "hidden_packs": [
+      "$polymer-resources",
+      "beyond_vanillatweaks",
+      "beyond_gui",
+      "beyond_tips",
+      "file/Chat Reporting Helper.zip",
       "Supplementaries Generated Pack",
       "Fabrication",
       "Fabrication grayscale",
@@ -32,7 +39,8 @@
       "elytra-trims-extensions/flower-adornments",
       "supplementaries/darker_ropes",
       "linkedstorage/enderstorage",
-      "continuity/glass_pane_culling_fix"
+      "continuity/glass_pane_culling_fix",
+      "file/EmbellishedStone-1.19.3-1.0.0.zip"
     ],
 
     "$required_packs": {

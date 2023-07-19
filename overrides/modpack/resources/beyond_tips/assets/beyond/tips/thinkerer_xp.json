@@ -1,0 +1,10 @@
+{
+  "title": {
+    "text": "Tinkerer's Smithing",
+    "bold": true,
+    "color": "red"
+  },
+  "tip": {
+    "text": "Anvil repairs no longer has an experience or work cost."
+  }
+}

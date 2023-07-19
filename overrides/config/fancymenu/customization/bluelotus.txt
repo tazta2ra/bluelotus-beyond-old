@@ -45,7 +45,7 @@ customization {
   width = 360
   action = deep_customization_element:drippy_overlay_progress_bar
   actionid = d6577ed7-50f4-41bc-8a03-c434fa5190ed1675446908809
-  y = -60
+  y = -74
   height = 10
 }
 
@@ -63,19 +63,38 @@ customization {
   width = 48
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = f2fae923-b923-4914-8466-352b815cb4851675447048625
-  y = -72
+  y = -86
   alignment = centered
   height = 11
 }
 
 customization {
   path = modpack/assets/blue_only.png
-  orientation = bottom-left
-  x = 3
+  orientation = bottom-centered
+  x = -76
   width = 152
   action = addtexture
   actionid = d26e6300-2307-481c-a572-7441f47f58001687018990638
-  y = -28
+  y = -30
   height = 25
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = {"placeholder":"usedram"} MB / {"placeholder":"maxram"} MB
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 4
+  width = 179
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = debc8020-5880-46a9-857f-998adea3501a1689595241490
+  y = 4
+  alignment = left
+  height = 16
 }
 

@@ -1,0 +1,10 @@
+{
+  "title": {
+    "text": "Tinkerer's Smithing",
+    "bold": true,
+    "color": "red"
+  },
+  "tip": {
+    "text": "Dont waste wood! Upgrade your wooden pickaxe by adding three stones to it."
+  }
+}

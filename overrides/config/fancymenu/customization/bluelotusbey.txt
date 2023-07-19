@@ -215,3 +215,37 @@ customization {
   height = 20
 }
 
+customization {
+  orientation = bottom-left
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_5375%btnaction_splitter_fm%
+  backgroundhovered = modpack/assets/res_on.png
+  description = Resource Packs
+  label = 
+  loopbackgroundanimations = true
+  x = 112
+  width = 20
+  action = addbutton
+  actionid = 7d5b9942-d4d1-41f3-9984-bb60882fb1881689678930792
+  y = -38
+  backgroundnormal = modpack/assets/res_off.png
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.coderbot.iris.gui.screen.ShaderPackScreen%btnaction_splitter_fm%
+  backgroundhovered = modpack/assets/shader_on.png
+  description = Shaders
+  label = 
+  loopbackgroundanimations = true
+  x = 134
+  width = 20
+  action = addbutton
+  actionid = be6e3f81-b711-4d2f-b202-48254ec2b94e1689679028401
+  y = -38
+  backgroundnormal = modpack/assets/shader_off.png
+  height = 20
+}
+

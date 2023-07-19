@@ -1,0 +1,10 @@
+{
+  "title": {
+    "text": "Tinkerer's Smithing",
+    "bold": true,
+    "color": "red"
+  },
+  "tip": {
+    "text": "Broken equipment with a custom name or enchantments doesn't disappear, and can be repaired / combined."
+  }
+}
