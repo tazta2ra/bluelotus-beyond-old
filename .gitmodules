@@ -1,0 +1,3 @@
+[submodule "website/tazta2ra.github.io"]
+	path = website/tazta2ra.github.io
+	url = https://github.com/tazta2ra/tazta2ra.github.io
