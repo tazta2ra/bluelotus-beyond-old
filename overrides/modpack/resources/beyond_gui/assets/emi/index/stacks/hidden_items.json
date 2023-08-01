@@ -1,0 +1,9 @@
+{
+    "added": [],
+    "removed": [
+        "item:bedspreads:decorated_bed",
+        "item:lootr:trophy",
+        "item:lavender:dynamic_book",
+        "item:patchouli:guide_book"
+    ]
+}
