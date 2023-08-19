@@ -1,0 +1,14 @@
+name = "Devin's Recipes"
+filename = "devins-recipes-1.0.1+pf15.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/rcofeNJ7/versions/7n8eLTql/devins-recipes-1.0.1%2Bpf15.jar"
+hash-format = "sha512"
+hash = "6622fbab1e43118766d6284241ece04f0f30fc58a92247478f86418fd8dda44928a0c06c4e3246b51019b5b8b5a211cf5e39b9a61bd010fa344960668f3fb7da"
+
+[update]
+[update.modrinth]
+mod-id = "rcofeNJ7"
+version = "7n8eLTql"

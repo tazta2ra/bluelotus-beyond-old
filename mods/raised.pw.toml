@@ -1,0 +1,14 @@
+name = "Raised"
+filename = "raisedxappleskin-fabric-1.20.1-2.5.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "5fc0865a41d4e557cc9cbbf65b962c3f4f047b8d"
+
+[update]
+[update.curseforge]
+file-id = 4645395
+project-id = 570368

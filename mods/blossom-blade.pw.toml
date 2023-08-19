@@ -1,0 +1,14 @@
+name = "Blossom Blade"
+filename = "blossom-blade-1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/UMmSTwE0/versions/DAbnnMDF/blossom-blade-1.0.jar"
+hash-format = "sha512"
+hash = "ebffd531ba5a9bbb7d9f9a2170129504f99abff666a082f6ce8c0cf33bd6ccc3240fdae83c0f7bf757d36aba316723c2e21aefd149736051ce4b6ae785d5a439"
+
+[update]
+[update.modrinth]
+mod-id = "UMmSTwE0"
+version = "DAbnnMDF"

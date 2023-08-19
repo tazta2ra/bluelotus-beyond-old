@@ -1,0 +1,14 @@
+name = "HopoBetterRuinedPortals"
+filename = "HopoBetterRuinedPortals-[1.20-1.20.1]-1.3.6.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/hIpLSyga/versions/zKUvwTDt/HopoBetterRuinedPortals-%5B1.20-1.20.1%5D-1.3.6.jar"
+hash-format = "sha512"
+hash = "de5019f2181932adcd204324e2661f51adf3165773b3946a73c790eafd645f3357b3853ce9079582643c6f4c0f0bd5aacb6837ceab8882797f91bf9e5affce99"
+
+[update]
+[update.modrinth]
+mod-id = "hIpLSyga"
+version = "zKUvwTDt"

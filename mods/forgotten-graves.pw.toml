@@ -1,0 +1,14 @@
+name = "Forgotten Graves"
+filename = "forgottengraves-1.20.1-3.2.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/FrZIkosK/versions/CQ2cjhvZ/forgottengraves-1.20.1-3.2.0.jar"
+hash-format = "sha512"
+hash = "0b8b753c26d90e4c410c76f5556b7b1a2518f4edb804c304988162ee9dcfe0c448789641c8d0a77121d6cc5132d63c72ad9d40baeb359a3b8fcd0dc8157d9f7c"
+
+[update]
+[update.modrinth]
+mod-id = "FrZIkosK"
+version = "CQ2cjhvZ"

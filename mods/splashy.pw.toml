@@ -1,0 +1,14 @@
+name = "Splashy"
+filename = "Splashy-Fabric-1.20.1-14.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/f7b8GSGW/versions/BaCyWhPa/Splashy-Fabric-1.20.1-14.0.1.jar"
+hash-format = "sha512"
+hash = "89200fdf220b6539792a3633c6592d3a77ff404cada4fe3f95f77a7f9ad49234a538a2920ea8203552ed4cce32d8bd9022865798c15676d16960c4cf923daa43"
+
+[update]
+[update.modrinth]
+mod-id = "f7b8GSGW"
+version = "BaCyWhPa"

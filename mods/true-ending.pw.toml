@@ -1,0 +1,14 @@
+name = "True Ending"
+filename = "true-ending-1.0.1a.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/MCnBYP0b/versions/pTrPrv3a/true-ending-1.0.1a.jar"
+hash-format = "sha512"
+hash = "c8d9e872160ce640b3b2061d6f21504aa4cd1519dbfd3b383d065e1b93bc44e28429ab114cb8d9b467bdac04a8a97c9b9d94da63f2a0e2254985eb9cbb109ecc"
+
+[update]
+[update.modrinth]
+mod-id = "MCnBYP0b"
+version = "pTrPrv3a"

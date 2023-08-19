@@ -1,0 +1,14 @@
+name = "Polymorph"
+filename = "polymorph-quilt-0.49.0+1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/l15iQHMn/polymorph-quilt-0.49.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "221ca7e4919791e7cb2937d77137bf993c30c134cfc3838d952d7a79ca36ae2bcfe38c2f5d7c2eb9e89db6cb919038014e8ca5559c07c68ab05fbde982ab2f1b"
+
+[update]
+[update.modrinth]
+mod-id = "tagwiZkJ"
+version = "l15iQHMn"

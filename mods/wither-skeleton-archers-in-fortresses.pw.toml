@@ -1,0 +1,14 @@
+name = "Wither Skeleton Archers in Fortresses"
+filename = "wither-skeleton-archers-in-fortresses-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/EYqziV73/versions/EuwZ6chC/wither-skeleton-archers-in-fortresses-1.0.0.jar"
+hash-format = "sha512"
+hash = "73ea0a6521f3dfdd82bd6919465e916e28193bd1ee9a6504ec20795c973030627eba8a634818ae90f49a5387139a6d3300266f9fb19cceb9d6de9806768fd5d1"
+
+[update]
+[update.modrinth]
+mod-id = "EYqziV73"
+version = "EuwZ6chC"

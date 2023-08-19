@@ -1,0 +1,14 @@
+name = "Jade"
+filename = "Jade-1.20-fabric-11.4.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/CFxkiWVV/Jade-1.20-fabric-11.4.0.jar"
+hash-format = "sha512"
+hash = "c07b990ec42f0309e047f6a22a161f6fee0114eef52ca77a2bb4d33e170799c0c028e5c3dd902614d00218cc7ec775da902ee20001eb8c7518142163c092c467"
+
+[update]
+[update.modrinth]
+mod-id = "nvQzSEkH"
+version = "CFxkiWVV"

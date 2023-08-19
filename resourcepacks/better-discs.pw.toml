@@ -1,0 +1,13 @@
+name = "Better Discs"
+filename = "BetterDiscs-1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FIxAuT9l/versions/SABqcAp4/BetterDiscs-1.0.zip"
+hash-format = "sha1"
+hash = "da8859acbadc30e1d77c8f170e351c3ab73867ac"
+
+[update]
+[update.modrinth]
+mod-id = "FIxAuT9l"
+version = "SABqcAp4"
