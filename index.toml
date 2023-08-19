@@ -1190,7 +1190,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "87697a072674466c1c6bcbda1daab3583dc4945e521da028b4165ea1478b28d1"
+hash = "3e99e3165904427bf5188b2f7c3a71fffc565ee6efc0e5bfafc42f101e1eb5fe"
 metafile = true
 
 [[files]]
@@ -1265,7 +1265,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "fd63cb3caf42c8c02d36cd5003256d493f9a2d58c25fdc423a00aadb8d3898fa"
+hash = "e785f674c3750804ea3407a6763bfa742ef258355f050c6f4dab55376d9345d8"
 metafile = true
 
 [[files]]
@@ -1550,7 +1550,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "51942aaa4438a0a521a47a83fcde40348563b3966c8628290a0eaf531e2d6b45"
+hash = "7843c9f45563df3fab3779f6771316b679d32694085d5626b2a060453fbe4e03"
 metafile = true
 
 [[files]]
@@ -1921,6 +1921,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/icon-xaeros.pw.toml"
 hash = "6740e18c048e5392e1a0b775e506dd9d453f336b6a961503191eabdf8ba8d949"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla-better-end-city.pw.toml"
+hash = "9aa8ff7cc535d65cae232ad8b0911208a406f3c1892a69e3d94045b5c9e70bf2"
 metafile = true
 
 [[files]]

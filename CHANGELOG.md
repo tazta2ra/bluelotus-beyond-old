@@ -100,7 +100,8 @@
 - Dynamic Music
 - Tiny Skeletons
 - Geckolib
-- 
+- Friends&Foes
+- Jade
 
 ## Removed: 
 
