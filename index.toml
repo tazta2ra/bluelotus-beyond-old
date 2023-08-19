@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "modpack/datapacks/repurposed-structures-friends-and-foes-compat.pw.toml"
-hash = "c462dde318acafeb86b1e5114e01ce4f4d414856577250f37497b24517e7dcff"
+hash = "1c75ab143c85bd59449ccb832ba39b23987607cd423d0da6019462a99da60aac"
 metafile = true
 
 [[files]]
