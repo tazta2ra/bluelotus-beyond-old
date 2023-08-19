@@ -1,8 +1,4 @@
 # Changelog
-
-- Thanks, I fixed your Inventory
-
-
 <hr>
 
 
