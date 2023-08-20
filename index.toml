@@ -1130,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
-hash = "c25d9969cbb075c4a5d8d7834468ee6aef1418beaa58461f6b32fab33ea67451"
+hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
 metafile = true
 
 [[files]]
@@ -1275,7 +1275,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "fe918552717543ad0117a5e769ad3ed68aede9a322794423128f2b6f7a041a82"
+hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
 metafile = true
 
 [[files]]
