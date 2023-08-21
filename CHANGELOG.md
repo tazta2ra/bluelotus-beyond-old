@@ -49,6 +49,7 @@
 - JEITweaker
 - Supplementaries Squared
 - Carpeted Stairs & Slabs
+- Every Compat
 
 ## Updated:
 
@@ -102,6 +103,15 @@
 - Geckolib
 - Friends&Foes
 - Jade
+- Update Bookshelf Lib 
+- Farmer's Delight
+- Explorer's Compass
+- Splashy
+- Tips
+- Distracting Trims
+- Super Duper Vanilla
+
+
 
 ## Removed: 
 
