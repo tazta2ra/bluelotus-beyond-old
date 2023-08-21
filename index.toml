@@ -1090,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "61acbdde6132c3968fc5d94e0cdfbe13ee7dfa81783d4a8db90bb2f0931c18fa"
+hash = "e58b56c44d7cf0a4a82173b07c0a37bb948f4eca82da3e3b1586359a41c546ce"
 metafile = true
 
 [[files]]
@@ -1559,6 +1559,10 @@ hash = "7843c9f45563df3fab3779f6771316b679d32694085d5626b2a060453fbe4e03"
 metafile = true
 
 [[files]]
+file = "mods/raisedxappleskin-fabric-1.20.1-2.5.0.jar"
+hash = "c53be77ec83ae0f7a1f73837bc1106f593fc0ebe313e5077c9f7b1b9aa62983a"
+
+[[files]]
 file = "mods/reacharound.pw.toml"
 hash = "38778c03f5c14624eabd2f8b156efb8c8f785368ec78f39519044e1c25b773a2"
 metafile = true
@@ -1926,11 +1930,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/icon-xaeros.pw.toml"
 hash = "6740e18c048e5392e1a0b775e506dd9d453f336b6a961503191eabdf8ba8d949"
-metafile = true
-
-[[files]]
-file = "resourcepacks/vanilla-better-end-city.pw.toml"
-hash = "9aa8ff7cc535d65cae232ad8b0911208a406f3c1892a69e3d94045b5c9e70bf2"
 metafile = true
 
 [[files]]
