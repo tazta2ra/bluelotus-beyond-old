@@ -795,7 +795,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "f457ca9926eebf7a9e2eff7995d8dd9159c0be0a049b14ce777a338a59eba524"
+hash = "22cedfe639993c4a5d0f35d704ade44867d8af5f079d0d6f6cd01f5a33d804d6"
 metafile = true
 
 [[files]]
@@ -965,7 +965,7 @@ metafile = true
 
 [[files]]
 file = "mods/distracting-trims.pw.toml"
-hash = "e7260b6ed4a254814eca3cd85e0e77e9585f056bef15ad92b6b64ccb8627485c"
+hash = "1c63d724fb8df54a58f0cecaecb5f9b79edf4118d746d3752b48a16cd4f8b970"
 metafile = true
 
 [[files]]
@@ -1086,6 +1086,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "174983521b194131c6c1f0d8a65538397166eb7b0ddd08bb02dc558df8ecb344"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "61acbdde6132c3968fc5d94e0cdfbe13ee7dfa81783d4a8db90bb2f0931c18fa"
 metafile = true
 
 [[files]]
@@ -1365,7 +1370,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4fe9e0b6d53e39e9207344dd77f17ccaba0138e85a1f413c0e3b3ed915b8723b"
+hash = "8c5609126c7a8d38b68c4df16f9e505c5aacdeda05d7a55cb661872db3831ae4"
 metafile = true
 
 [[files]]
@@ -1375,7 +1380,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "ac99e8d2e84ea76a989260db493370072aca68e59e7f8e357bd2c3d9fb5986a5"
+hash = "43efd3e8b07985d62e4c24f25c29794f17a180db95a8a0a8cfc1e479d5f25f12"
 metafile = true
 
 [[files]]
@@ -1545,7 +1550,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "9206d442de581d9c1f1828de11a22e931efc5d852f8c1e94b65ac7471e822599"
+hash = "7ffa8a332d46b6b412904e52353d7095b4709de406699d75bc31dc99ce416487"
 metafile = true
 
 [[files]]
@@ -1570,7 +1575,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "7ff206351e40524bbc440351a9e8745476eea292aa320479b2f9d530ba03bdce"
+hash = "b95678125b08720ddac1bfe466bf7b674a8f9b43a2c38e8135a2e27e80f86ced"
 metafile = true
 
 [[files]]
@@ -1660,7 +1665,7 @@ metafile = true
 
 [[files]]
 file = "mods/splashy.pw.toml"
-hash = "fcc7f93f15dd695a93ad7c234ada15bd1e995034e5f87505c430cb56323387a2"
+hash = "417384418ae8c2e07b4c11645f797387d1f39275a2ad59ce35c3cfad5f6f7b79"
 metafile = true
 
 [[files]]
@@ -1780,7 +1785,7 @@ metafile = true
 
 [[files]]
 file = "mods/tips.pw.toml"
-hash = "60408f476f6ef3cfe84256e42f07ff6acee2e8e7c14b6df886f21af0472abc19"
+hash = "26b3b44a0ecdd38335f213efc433dfb6a764df9e130703a1ab4370483761641f"
 metafile = true
 
 [[files]]
@@ -1952,5 +1957,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/super-duper-vanilla.pw.toml"
-hash = "a5ed01e32d65dbd67e9573e1575874284a0e3c64aebbbbb872230d8be9fd0e8e"
+hash = "fde89efa0ba937c2f4d05eba0b0ea1259e7e628b90446da5a74cfb95ea9353c9"
 metafile = true
