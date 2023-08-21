@@ -344,6 +344,11 @@ hash = "1c75ab143c85bd59449ccb832ba39b23987607cd423d0da6019462a99da60aac"
 metafile = true
 
 [[files]]
+file = "modpack/datapacks/towers-of-the-wild-reworked.pw.toml"
+hash = "5cc911d94ec20d211154d08f1c2b89a4e8661116a42e6e801b45fe8a59cee038"
+metafile = true
+
+[[files]]
 file = "modpack/mainmenu-verison.txt"
 hash = "2d83ede62a88a6baf4ff59fa330fddb00b9723234124053cdf3858be3f7b38ce"
 
@@ -1729,7 +1734,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"
-hash = "a886297cfe9b6357c139ab49d81cf79c74561eae743000070fc9eb4be9f9f988"
+hash = "a69de34851715b0bf011311fafca0d6e8217cc32717f8351e12babbb382fc480"
 metafile = true
 
 [[files]]
