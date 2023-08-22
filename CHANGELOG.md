@@ -109,6 +109,8 @@
 - Splashy
 - Tips
 - Distracting Trims
+- Friendly Fire
+- Kiwi
 - Super Duper Vanilla
 
 
