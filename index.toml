@@ -30,11 +30,11 @@ hash = "25ed74958f178a35542c64a29d0709048199442f7c6c9572b78d3edb29193815"
 
 [[files]]
 file = "config/fancymenu/customization/bluelotus.txt"
-hash = "0b19df99b91abb99c25c4c2e2ed2661e98d0208d82242bd1a93bfd87dbccb24e"
+hash = "a76ccaee39e661dc0ef649cfdbd2b31f8c79f1884ae88a068de5e5aa4b2a0b79"
 
 [[files]]
 file = "config/fancymenu/customization/bluelotusbey.txt"
-hash = "d8629edf19b8cc9b4137ec84d0e857d67f594ae9bed01bf2dc43196036fa42c1"
+hash = "4dcf03ebe0d756578eabdbbf44b8e1209111549c68d0406230f19f364dda2d57"
 
 [[files]]
 file = "config/fancymenu/customization/pause.txt"
@@ -277,10 +277,6 @@ file = "modpack/assets/blue_new_no.png"
 hash = "84caed4a56ec5b927eee2ff86f6b3f0ab4a3c253f298b17dbdc214a4358566b2"
 
 [[files]]
-file = "modpack/assets/blue_only.png"
-hash = "f4f443fb6d4a2e5a35a3ffee26873f3a780f335b7d131f6e715e972f76102700"
-
-[[files]]
 file = "modpack/assets/git_off.png"
 hash = "a3ec957eaa0ec1ba7920e837a58a187dff0418b0d496c51ab4f250e5e8740887"
 
@@ -319,6 +315,10 @@ hash = "1a80d85a2551feeae70fc9bbfe1855d633833ab5b21215483a8152120e22521a"
 [[files]]
 file = "modpack/assets/shader_on.png"
 hash = "290ab3e3793dbbb8320f5ff220202cc4003365fa94a3843858dc8cdc50eff782"
+
+[[files]]
+file = "modpack/assets/title.png"
+hash = "42e02783a047baa4a7819009b00ee39fb9cc8bcd0cd6511d6af6477a584f6baf"
 
 [[files]]
 file = "modpack/datapacks/ichphilipp-s-endcity-vanilla-v1-1-1-18-1-e640.zip"

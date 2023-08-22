@@ -3,7 +3,7 @@ type = menu
 customization-meta {
   identifier = net.minecraft.class_442
   randomgroup = 1
-  renderorder = foreground
+  renderorder = background
   randommode = false
   randomonlyfirsttime = false
 }
@@ -189,17 +189,6 @@ customization {
 }
 
 customization {
-  path = /modpack/assets/blue_new.png
-  orientation = top-centered
-  x = -142
-  width = 294
-  action = addtexture
-  actionid = e1991200-2a3d-4dc0-b407-2ece5fd36d4e1687006896341
-  y = 35
-  height = 71
-}
-
-customization {
   orientation = element
   restartbackgroundanimations = true
   buttonaction = openlink;https://modrinth.com/user/aninuscsalas%btnaction_splitter_fm%
@@ -247,5 +236,18 @@ customization {
   y = -38
   backgroundnormal = modpack/assets/shader_off.png
   height = 20
+}
+
+customization {
+  advanced_height = 83
+  path = modpack/assets/title.png
+  orientation = top-centered
+  x = -151
+  width = 303
+  action = addtexture
+  actionid = e9512192-ca4e-41dd-94ec-d2b15d10ccdb1692699689496
+  y = 30
+  advanced_width = 303
+  height = 83
 }
 

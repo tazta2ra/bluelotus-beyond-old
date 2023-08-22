@@ -93,7 +93,7 @@ customization {
 }
 
 customization {
-  path = modpack/assets/blue_new_no.png
+  path = modpack/assets/title.png
   orientation = mid-centered
   x = -180
   width = 361
