@@ -222,7 +222,7 @@ hash = "459043680fe671f08da4d1a88ff7204fa94880c2a7babba98d68acebc60d49c1"
 
 [[files]]
 file = "config/yosbr/config/resourcepackoverrides.json"
-hash = "46141e5ddd82ab36a23a0d294be40d54d26081d983b823acc8643b04ab97a2ff"
+hash = "42d6d56aafa81aa396169c3a085f011a14c7fabf57986ca78e1183ce9f4e312a"
 
 [[files]]
 file = "config/yosbr/config/smoothboot.json"
@@ -319,10 +319,6 @@ hash = "1a80d85a2551feeae70fc9bbfe1855d633833ab5b21215483a8152120e22521a"
 [[files]]
 file = "modpack/assets/shader_on.png"
 hash = "290ab3e3793dbbb8320f5ff220202cc4003365fa94a3843858dc8cdc50eff782"
-
-[[files]]
-file = "modpack/datapacks/Towers_Of_The_Wild_Reworked_v4.0.2_Fabric_Waystones.zip"
-hash = "ea056a272ca794ba9cdb86fa3a6dad302b2e2d6cd8dcaeb0324590b2e4753e18"
 
 [[files]]
 file = "modpack/datapacks/ichphilipp-s-endcity-vanilla-v1-1-1-18-1-e640.zip"
@@ -650,7 +646,7 @@ hash = "85d732c63855e8befd5ad20a10e1e7e4b9dda2da7e81958cbc54065c5ec39aec"
 
 [[files]]
 file = "mods/additional-lanterns.pw.toml"
-hash = "d2aace4f9a478712c03041397ecfe40e62b80079feb48bb16734da736bf95097"
+hash = "2a39c976df9b566ba9b54f1e4fae5d98375061c6ccfc974529a9baf219de803c"
 metafile = true
 
 [[files]]
@@ -705,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/armorful.pw.toml"
-hash = "a7e8d724000eca19163a15c2ccc97df21ed1b51ea21b429f0ed0c72d89f7fcb5"
+hash = "f832c2e3dc2dc2dd814d1b4aebeb712ee20a34bbd9bb6ee65f3178e325c0c1c2"
 metafile = true
 
 [[files]]
@@ -735,7 +731,7 @@ metafile = true
 
 [[files]]
 file = "mods/beaconoverhaul.pw.toml"
-hash = "e8808b1ceda2f01eca521dbc69573de66020b64acb99f56282b55d8106670aea"
+hash = "ba9e1f1bfa31c9d36d04b4bd77bc52969f9d29dc4ea16d28312e0fe0b9266848"
 metafile = true
 
 [[files]]
@@ -845,7 +841,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "d65b7b32970b97998d5282e35a597d6b0cb2442f1690fc4ad22352032d018f88"
+hash = "7370b4669c3ef25369689004411312a52587fa788aa0c4a287ff3309537ebe39"
 metafile = true
 
 [[files]]
@@ -1195,7 +1191,7 @@ metafile = true
 
 [[files]]
 file = "mods/friendly-fire.pw.toml"
-hash = "f5765d7bf7e41066fc098a6d4907d17dff2cc3929bb025f87cabaf89b4e4c449"
+hash = "91eba9b139e1b266426dbd4bbd5877182d7b22a745f4e194898ba027c847fbbb"
 metafile = true
 
 [[files]]
@@ -1305,7 +1301,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "3d4d2317d8440d52e609c6b64deb9c60cec6dddd6995c66852e769a74840b849"
+hash = "2fca316094aaba7621f614ebe9f26e50992797b8c63c6528e8b3fad35e885d7b"
 metafile = true
 
 [[files]]
@@ -1360,7 +1356,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "b620b66a760c7305acf5611f410c58e3f1d4bb6cb92dab5bd50a5491efb6b062"
+hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
 metafile = true
 
 [[files]]
@@ -1385,7 +1381,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "43efd3e8b07985d62e4c24f25c29794f17a180db95a8a0a8cfc1e479d5f25f12"
+hash = "e4267a73d884bc58be92bd7373bb5a9377af5f978c8aa80b4ab5331679f16b5d"
 metafile = true
 
 [[files]]
@@ -1584,7 +1580,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "b95678125b08720ddac1bfe466bf7b674a8f9b43a2c38e8135a2e27e80f86ced"
+hash = "119a34a70c56547255e79687cadd35c17321ee0f8c839f0655d278962ee0a04e"
 metafile = true
 
 [[files]]
@@ -1634,7 +1630,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2bb324cfcdaf6585bf49b4ca0d76fe502810ac59523fc0ef63c0b9b6510d731a"
+hash = "9ef1ee385a1b7639fb0660134134c8c486c9341104535ab8fb0d2f7b5a8070f6"
 metafile = true
 
 [[files]]
@@ -1724,7 +1720,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "b767317fab54846ceeecfe81d31bed3e3b77978e94e4dfc4df5d31e45fa7a059"
+hash = "1b9f8b0039b5fdf0850e6977ee05eb83065bb68d6ac4fed7a5a1609ca8cc5b52"
 metafile = true
 
 [[files]]
@@ -1784,7 +1780,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
-hash = "7f0b6629a7538238c8d7476d113c061a789dffd2332429a81df37e8b64d4f048"
+hash = "9b9e1a87a7d10663afbd697f7601d9f2bed46c556eae24f0fde8e8406596e140"
 metafile = true
 
 [[files]]

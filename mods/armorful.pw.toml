@@ -1,14 +1,13 @@
-name = "IllagersWearArmor"
-filename = "Armorful-2.0.0+1.20.jar"
+name = "Armorful"
+filename = "Armorful-2.0.1+1.20.jar"
 side = "both"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/LlOkR2e2/versions/vwtCGtEn/Armorful-2.0.0%2B1.20.jar"
-hash-format = "sha512"
-hash = "99a9c2c8b2cf365d2986647b4bc2669337d77824c3653dec1f0817a9ac50139a7d305f06803b5d314983e9a711fe81cbf2d7cf4806ec34c2ece50f3908b0c1f1"
+url = "https://cdn.modrinth.com/data/LlOkR2e2/versions/Sq2xJKa8/Armorful-2.0.1%2B1.20.jar"
+hash-format = "sha1"
+hash = "46d7d35c29efbf2d163446ca996ef43a2eca92ad"
 
 [update]
 [update.modrinth]
 mod-id = "LlOkR2e2"
-version = "vwtCGtEn"
+version = "Sq2xJKa8"

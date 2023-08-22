@@ -1,14 +1,13 @@
 name = "SuperMartijn642's Config Lib"
-filename = "supermartijn642configlib-1.1.7-fabric-mc1.20.jar"
+filename = "supermartijn642configlib-1.1.8-fabric-mc1.20.jar"
 side = "both"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/LN9BxssP/versions/baEzAEWx/supermartijn642configlib-1.1.7-fabric-mc1.20.jar"
-hash-format = "sha512"
-hash = "bd983f7ab75964f58f63de4620d778e394a8f38ce16c34968d409fe7977352e6daee9a47c83bf1db8b70036bd58b8bda9779414bbf58abd0740a07dfd79cdb86"
+url = "https://cdn.modrinth.com/data/LN9BxssP/versions/ppb4lV9X/supermartijn642configlib-1.1.8-fabric-mc1.20.jar"
+hash-format = "sha1"
+hash = "95d1779f354b3696a3cbad96215db1277339fc41"
 
 [update]
 [update.modrinth]
 mod-id = "LN9BxssP"
-version = "baEzAEWx"
+version = "ppb4lV9X"
