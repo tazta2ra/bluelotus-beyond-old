@@ -34,7 +34,7 @@ hash = "a76ccaee39e661dc0ef649cfdbd2b31f8c79f1884ae88a068de5e5aa4b2a0b79"
 
 [[files]]
 file = "config/fancymenu/customization/bluelotusbey.txt"
-hash = "4dcf03ebe0d756578eabdbbf44b8e1209111549c68d0406230f19f364dda2d57"
+hash = "9ba0d8b7c0a4935234e6b7093478697bafd7676f1c128a02c14cac77bae3ac8d"
 
 [[files]]
 file = "config/fancymenu/customization/pause.txt"
@@ -267,14 +267,6 @@ hash = "53f3f7c3ad28a5ff0fbc632b5b91ced6f84cfab0a81969cff1d74319eddb40eb"
 [[files]]
 file = "modpack/assets/background.png"
 hash = "7ae952fb5104d19a20c512fc039f9cadc6114c1d702553cc3065970760a094d3"
-
-[[files]]
-file = "modpack/assets/blue_new.png"
-hash = "2015ff8b0313d687b0f195daacb4b9b20cd0d9ecb2d700d681c2510dff2b3633"
-
-[[files]]
-file = "modpack/assets/blue_new_no.png"
-hash = "84caed4a56ec5b927eee2ff86f6b3f0ab4a3c253f298b17dbdc214a4358566b2"
 
 [[files]]
 file = "modpack/assets/git_off.png"
