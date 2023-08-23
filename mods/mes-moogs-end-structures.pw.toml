@@ -1,14 +1,13 @@
 name = "MES - Moog's End Structures"
-filename = "mes-1.1-1.20-fabric.jar"
+filename = "mes-1.2-1.20-fabric.jar"
 side = "both"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/r4PuRGfV/versions/q0UL3Od1/mes-1.1-1.20-fabric.jar"
-hash-format = "sha512"
-hash = "4ad71ab75c692d7bcec8dc62c062e805516083ec30a1ae89968465d0f2d3d55775665603c93a2ebeb88ce71a60ab60559c0da6a7a349f27fa22b89723aa1540a"
+url = "https://cdn.modrinth.com/data/r4PuRGfV/versions/1597Tazl/mes-1.2-1.20-fabric.jar"
+hash-format = "sha1"
+hash = "1621304e41f5290903f2e850ff274046097b56d8"
 
 [update]
 [update.modrinth]
 mod-id = "r4PuRGfV"
-version = "q0UL3Od1"
+version = "1597Tazl"

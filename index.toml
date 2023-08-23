@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/altorigingui.pw.toml"
-hash = "7795d6d6de00d1e3486ddbc5081e61a26bfa396be55af796489e975c45b727f7"
+hash = "e775fc6ec5f08240736f6a0fb10c241ab659258ba34762aacd34e45055581e90"
 metafile = true
 
 [[files]]
@@ -1201,7 +1201,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwaystones.pw.toml"
-hash = "6b06e22653caf8ffd9272e977a71afc825ecde57ba8807280c79d77e3427a3fb"
+hash = "7657e97e87c4506f2c07514cce67ffcad59d8c5b01bfbb88473cf031c03960ab"
 metafile = true
 
 [[files]]
@@ -1346,7 +1346,7 @@ metafile = true
 
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "8f9800b708908caf39da03aecaed7c4b425d3d6e92f11403a855902e52945c94"
+hash = "04271f01e7d70da1d2367014bb38c3d1a9a51cb409614b068fb93c4674a72863"
 metafile = true
 
 [[files]]
@@ -1570,7 +1570,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "900209a616f9fd636213ab6643f8e6a88c5b271b510a36efdd44e296650d39cb"
+hash = "2a7123bb25f877e54b8c047ff32c826ab7d74d371c086fdc02b834377c07fdb0"
 metafile = true
 
 [[files]]
@@ -1595,7 +1595,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "532d89b8dbaa25209f6ae7830f5415564d33587289874f7a6ace224052c95e5f"
+hash = "20d8dfbc90c81bb784a17b7f88c4ff00ecb9946c29244af47b9e1586a9395a8d"
 metafile = true
 
 [[files]]
@@ -1780,7 +1780,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
-hash = "9b9e1a87a7d10663afbd697f7601d9f2bed46c556eae24f0fde8e8406596e140"
+hash = "68eb30c62e3dd5cf24a41fb6dd6e9a3b155a1acb628f7bdfd39a4cc41a4b1902"
 metafile = true
 
 [[files]]
@@ -1865,17 +1865,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "f791cc598831583f7f2f04392d9d55f009f6ea5c22ff32035653547689cb56ff"
+hash = "609ccd318a790a8278119d7d9ce4d02415445d2487b8a8bd3921a1847a2b0737"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a928bb9227cdb113f3dc7510ad5d96d03657f3f994d1773185063f451bce2be8"
+hash = "0e6c95ef1ccab7d1c56a0222ecc3072e1ac9dfae171ae860e3d0e9a1a008e529"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "80f833d71a00ae6b555a50d55471174bc40e50fccc66b1ef6267ca5906cb7fcf"
+hash = "6c1a9c599f7c81d6c2f39533b335afe410a3beeb6d2b02b251ad74d5c7a34782"
 metafile = true
 
 [[files]]
