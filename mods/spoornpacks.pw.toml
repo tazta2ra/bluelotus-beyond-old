@@ -1,0 +1,14 @@
+name = "SpoornPacks"
+filename = "spoornpacks-5.0-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/40ytxGF2/versions/NSN0Yoyz/spoornpacks-5.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "1f91e8be6f32c73ca5a181ec4c8efdae7d06a08ad81ccd416b4dde3edd248927fca53171732d989a916b6562671621f6964b7b6449d36220b8bf757fc6a849ef"
+
+[update]
+[update.modrinth]
+mod-id = "40ytxGF2"
+version = "NSN0Yoyz"

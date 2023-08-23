@@ -1,0 +1,12 @@
+{
+    "added": [],
+    "removed": [
+        "item:bedspreads:decorated_bed",
+        "item:lavender:dynamic_book",
+        "item:patchouli:guide_book",
+        "item:moonlight:placeable_item",
+        "item:porting_lib:area_selector",
+        "item:scribe:default_boat",
+        "item:scribe:default_chest_boat"
+    ]
+}

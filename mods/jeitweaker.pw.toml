@@ -1,0 +1,14 @@
+name = "JeiTweaker"
+filename = "JeiTweaker-fabric-1.20.1-8.0.5.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/EiEOyeoL/versions/irW9jpKd/JeiTweaker-fabric-1.20.1-8.0.5.jar"
+hash-format = "sha512"
+hash = "624e7a07d4d30c4a3816439ff9bc4e6d4636fc24d09de62f9ae9b9b8a12106a16de6152010c6a1f84e072f5183d58da56b99fa2a42e89ebca532d58fd1947dc0"
+
+[update]
+[update.modrinth]
+mod-id = "EiEOyeoL"
+version = "irW9jpKd"

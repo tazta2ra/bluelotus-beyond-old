@@ -1,0 +1,105 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = modpack/assets/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 140
+  width = 360
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = 313865f3-ca9b-45e3-8ab9-2c4daa03a4891675446908790
+  y = 135
+  height = 90
+}
+
+customization {
+  custom_color_hex = #ffffff
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 0d049471-45ec-4f67-b112-3f9bb732ff331675446908809
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = bottom-centered
+  hidden = false
+  original_pos_size_calculation = false
+  x = -180
+  width = 360
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = d6577ed7-50f4-41bc-8a03-c434fa5190ed1675446908809
+  y = -74
+  height = 10
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Loading...
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -24
+  width = 48
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = f2fae923-b923-4914-8466-352b815cb4851675447048625
+  y = -86
+  alignment = centered
+  height = 11
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = {"placeholder":"usedram"} MB / {"placeholder":"maxram"} MB
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 3
+  width = 179
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = debc8020-5880-46a9-857f-998adea3501a1689595241490
+  y = 3
+  alignment = left
+  height = 16
+}
+
+customization {
+  path = modpack/assets/title.png
+  orientation = mid-centered
+  x = -180
+  width = 361
+  action = addtexture
+  actionid = b4ea073a-21df-4589-9a53-7c5e545377501692028291396
+  y = -50
+  height = 100
+}
+

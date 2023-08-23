@@ -1,0 +1,14 @@
+name = "Elytra Slot"
+filename = "elytraslot-quilt-6.3.0+1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/mSQF1NpT/versions/AmEdJTeq/elytraslot-quilt-6.3.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "696a680bbfd4c7335dc302838faf7aa84877867422a73538d03ffcb27cdceae7c80d11d0b7c11baed47b33b7b8cf0a0067c174c9ed251b2e31c9f838dd7f4d87"
+
+[update]
+[update.modrinth]
+mod-id = "mSQF1NpT"
+version = "AmEdJTeq"

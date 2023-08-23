@@ -1,0 +1,14 @@
+name = "Chat Heads"
+filename = "chat_heads-0.10.20-fabric-1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/CJCClsCd/chat_heads-0.10.20-fabric-1.20.jar"
+hash-format = "sha512"
+hash = "1c1276e01d0b6eaf866a9587913b0447301e63debb564e26f5af7afe9eb68575d8fb753874f188e946c825ae43cf4607c3671c09cce76e61fcc09d75f6166d54"
+
+[update]
+[update.modrinth]
+mod-id = "Wb5oqrBJ"
+version = "CJCClsCd"

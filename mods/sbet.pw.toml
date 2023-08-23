@@ -1,0 +1,14 @@
+name = "Subjectively Better Enchantment Tooltips"
+filename = "sbet-1.1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/LTFmkF0X/versions/jGgGzfro/sbet-1.1.1.jar"
+hash-format = "sha512"
+hash = "1bc04e4e268a8c03f5e93896388238bd901ddccee54b9e575652566f020ea4d6d1f0f061b8ec8764cbce6c69a20a5fa1ad6ae2843645d017b7d5bd1e83b80607"
+
+[update]
+[update.modrinth]
+mod-id = "LTFmkF0X"
+version = "jGgGzfro"

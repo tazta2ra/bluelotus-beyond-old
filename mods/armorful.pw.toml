@@ -1,0 +1,13 @@
+name = "Armorful"
+filename = "Armorful-2.0.1+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LlOkR2e2/versions/Sq2xJKa8/Armorful-2.0.1%2B1.20.jar"
+hash-format = "sha1"
+hash = "46d7d35c29efbf2d163446ca996ef43a2eca92ad"
+
+[update]
+[update.modrinth]
+mod-id = "LlOkR2e2"
+version = "Sq2xJKa8"

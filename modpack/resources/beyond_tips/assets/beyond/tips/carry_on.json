@@ -1,0 +1,10 @@
+{
+  "title": {
+    "text": "Carry On",
+    "bold": true,
+    "color": "aqua"
+  },
+  "tip": {
+    "text": "Press Shift + RMB to pick up any single block chest!"
+  }
+}

@@ -1,0 +1,14 @@
+name = "EnchantedShulkers"
+filename = "enchantedshulkers-1.1.3+1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/vUi6HFie/versions/XiXTpl2Z/enchantedshulkers-1.1.3%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "55d38d3391479ac0d94719a72234987c23fec008fbab7a103a3a151cc86f0c0ed76fd951c3d4e3fd2ea970568e34e0ce4b169e1900d6949b2830a1e9f00f4237"
+
+[update]
+[update.modrinth]
+mod-id = "vUi6HFie"
+version = "XiXTpl2Z"

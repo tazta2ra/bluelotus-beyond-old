@@ -1,0 +1,253 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  orientation = bottom-right
+  x = -199
+  action = movebutton
+  y = -16
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = bottom-left
+  x = 90
+  action = movebutton
+  y = -38
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = setbuttondescription
+  description = Mods ({"placeholder":"loadedmods"})
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = bottom-left
+  x = 68
+  action = movebutton
+  y = -38
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = setbuttondescription
+  description = Accessibility
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = bottom-left
+  x = 46
+  action = movebutton
+  y = -38
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = setbuttondescription
+  description = Language
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 226
+  action = deep_customization_element:title_screen_branding
+  actionid = 2fb6e89b-ad1d-462f-a88d-6a0c8fa526aa1686929000093
+  y = 348
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = cc09ddcc-fc0e-4dab-a8cc-7fe41498b23f1686929000108
+  y = 190
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = e8d01daf-4bca-4aeb-8333-a61c03add5111686929000109
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = top-centered
+  splash_color = #ffff00
+  hidden = false
+  x = 119
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 083b6222-75ca-4c64-bb4a-027aeb06d1cf1686929000109
+  y = 95
+  height = 30
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = /modpack/mainmenu-verison.txt
+  text_border = 0
+  case_mode = normal
+  source_mode = local
+  line_spacing = 1
+  x = 2
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 11b05854-da5f-4fa0-ad81-628680d6e5d71686929042709
+  y = -16
+  alignment = left
+  height = 13
+}
+
+customization {
+  orientation = bottom-left
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://modrinth.com/modpack/bluelotus-beyond%btnaction_splitter_fm%
+  backgroundhovered = /modpack/assets/modrinth_on.png
+  description = Visit the Modrinth page!
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = 2
+  width = 20
+  action = addbutton
+  actionid = f02558db-f132-40a0-87c8-2ab81c5852171686929251194
+  y = -38
+  backgroundnormal = /modpack/assets/modrinth_off.png
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://github.com/tazta2ra/bluelotus-beyond%btnaction_splitter_fm%
+  backgroundhovered = /modpack/assets/git_on.png
+  description = View the source code on github!
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = 24
+  width = 20
+  action = addbutton
+  actionid = 55c4dae5-098c-4a9a-84bd-ca1c6eabaaef1686929488036
+  y = -38
+  backgroundnormal = /modpack/assets/git_off.png
+  height = 20
+}
+
+customization {
+  orientation = bottom-right
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = A Minecraft {"placeholder":"mcversion"} modpack
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -202
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 546eaf87-f5d2-4f6c-8551-cc3e9d7525661686931125754
+  y = -31
+  alignment = right
+  height = 13
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://modrinth.com/user/aninuscsalas%btnaction_splitter_fm%
+  label = Check out my other stuff!
+  loopbackgroundanimations = true
+  hoverlabel = - Check out my other stuff! -
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  x = 0
+  width = 200
+  action = addbutton
+  actionid = 652f27c5-808a-4776-9534-2f84c5cf9e4a1687030352905
+  y = 24
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_5375%btnaction_splitter_fm%
+  backgroundhovered = modpack/assets/res_on.png
+  description = Resource Packs
+  label = 
+  loopbackgroundanimations = true
+  x = 112
+  width = 20
+  action = addbutton
+  actionid = 7d5b9942-d4d1-41f3-9984-bb60882fb1881689678930792
+  y = -38
+  backgroundnormal = modpack/assets/res_off.png
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.coderbot.iris.gui.screen.ShaderPackScreen%btnaction_splitter_fm%
+  backgroundhovered = modpack/assets/shader_on.png
+  description = Shaders
+  label = 
+  loopbackgroundanimations = true
+  x = 134
+  width = 20
+  action = addbutton
+  actionid = be6e3f81-b711-4d2f-b202-48254ec2b94e1689679028401
+  y = -38
+  backgroundnormal = modpack/assets/shader_off.png
+  height = 20
+}
+
+customization {
+  advanced_height = 83
+  path = modpack/assets/title.png
+  orientation = top-centered
+  x = -151
+  width = 303
+  action = addtexture
+  actionid = e9512192-ca4e-41dd-94ec-d2b15d10ccdb1692699689496
+  y = 30
+  advanced_width = 303
+  height = 83
+}
+

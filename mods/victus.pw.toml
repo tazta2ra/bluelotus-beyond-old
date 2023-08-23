@@ -1,0 +1,14 @@
+name = "Victus"
+filename = "victus-0.1.14+1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Sy5mAKPK/versions/HzFLIayb/victus-0.1.14%2B1.20.jar"
+hash-format = "sha512"
+hash = "06c1ac758e5425af68aadebd303e6b1db153198ed92fe8ab0b4c2813071e08f569c114eb910ba0a551584460b008aa72e20f358c1e4778f14f57156112884eb2"
+
+[update]
+[update.modrinth]
+mod-id = "Sy5mAKPK"
+version = "HzFLIayb"

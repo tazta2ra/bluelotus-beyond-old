@@ -1,0 +1,14 @@
+name = "Stacked Armor Trims"
+filename = "stacked-armor-trims-1.1.0-MC1.20.x-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/VzNdDnci/versions/SViW7wW1/stacked-armor-trims-1.1.0-MC1.20.x-fabric.jar"
+hash-format = "sha512"
+hash = "c6cc04fc576c7462a8ec75855bd7ba332e1434bff0d9198c4fc754723c373e5bd39f18171ea3794b29e755e9b231fb9001ea7cba0a7c1a470eb049947a733c12"
+
+[update]
+[update.modrinth]
+mod-id = "VzNdDnci"
+version = "SViW7wW1"
