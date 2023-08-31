@@ -1,14 +1,13 @@
 name = "Elytra Trims Extensions"
-filename = "elytra-trims-extensions-1.1.1.jar"
+filename = "elytra-trims-extensions-1.2.0.jar"
 side = "both"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/5edtQ4at/versions/dwHXrgEH/elytra-trims-extensions-1.1.1.jar"
-hash-format = "sha512"
-hash = "45788cd5ae31a03c36d796bd13048271ccbc6e073166be8eebf94abba3086c8a7049a19399571683823742508f7abb8b70f9a3a1d361dd64fbf5fd4900cf318f"
+url = "https://cdn.modrinth.com/data/5edtQ4at/versions/XaNgVkaS/elytra-trims-extensions-1.2.0.jar"
+hash-format = "sha1"
+hash = "310ccc69c990abc1244f053bb3f3d22be67f4b04"
 
 [update]
 [update.modrinth]
 mod-id = "5edtQ4at"
-version = "dwHXrgEH"
+version = "XaNgVkaS"

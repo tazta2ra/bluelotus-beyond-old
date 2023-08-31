@@ -13,7 +13,7 @@
     "elytra-trims-extensions/more-armor-trims",
     "$polymer-resources",
     "beyond_vanillatweaks",
-    "file/Icon Xaero's 1.07.zip",
+    "file/Icon Xaero's 1.09.zip",
     "file/BetterDiscs-1.0.zip"
   ],
   "default_overrides": {
@@ -48,7 +48,7 @@
       "linkedstorage/enderstorage",
       "continuity/glass_pane_culling_fix",
       "file/EmbellishedStone-1.19.3-1.0.0.zip",
-      "file/Icon Xaero's 1.07.zip",
+      "file/Icon Xaero's 1.09.zip",
       "Everycomp Generated Pack",
       "Suppsquared Generated Pack"
     ],
