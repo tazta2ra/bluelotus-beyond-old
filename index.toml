@@ -1373,7 +1373,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "6dca8ecd37b484d688713e7ee5ad644b0a6ad15f1edaf1953c43fea7ee33f7bb"
+hash = "ff0b7cc43e94918d6ed53872cc2abea33d90b3bb3fff2f0dee50f571a9fbabc7"
 metafile = true
 
 [[files]]
@@ -1862,7 +1862,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "2cc2e6dee366fcf7fa8166e51a7b65a10631c79489de30c76b2f056931772b52"
+hash = "f15402402b1072b5b4008eb81ff79500dc5f228b5134740c48f166d32d21ae7e"
 metafile = true
 
 [[files]]
