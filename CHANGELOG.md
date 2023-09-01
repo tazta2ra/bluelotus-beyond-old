@@ -5,12 +5,19 @@
 
 ## Changed:
 
-- Regions Unexplored Good Wood compat
-- Updated Biomes
+- Fixed Regions Unexplored + Good Wood compat
+- Regions Unexplored 0.5.0 update
+- Updated mods
+- Now the pack runs again with 2000MB RAM
 
 ## Added:
 
--
+- Animal Feeding Trough
+- MmmMmmMmmMmm
+- Fast Paintings
+- way2wayfabric
+- Language Reload
+- Sodium Translations
 
 ## Updated:
 
