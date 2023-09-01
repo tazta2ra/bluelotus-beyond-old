@@ -1,9 +1,48 @@
 # Changelog
 <hr>
 
+#  0.3.1
+
+## Changed:
+
+- Regions Unexplored Good Wood compat
+- Updated Biomes
+
+## Added:
+
+-
+
+## Updated:
+
+- Towers of the Wild Reworked
+- Auto Third Person
+- Better Underwater Ruins
+- Zoomify
+- YACL
+- Xaero's Minimap
+- Xaero's Wold Map
+- XaeroPlus
+- Tidal Towns
+- Supplementaries
+- SuperMartijn642s Core Lib
+- Sound Physics Remastered
+- Simple Voice Chat
+- Repurposed Structures
+- Regions Unexplored
+- Origins Minus
+- Moonlight
+- ModernFix
+- ImmediatelyFast
+- Every Compat
+- Elytra Trims
+- Elytra Trims Extensions
+- CraftTweaker
+- Carry On
+
+## Removed: 
 
 
-
+<hr>
 
 # 0.3.0
 <blockquote><h3> Please make a backup before updating! NOT backwards compatible with 0.2.0, all Lootr chests will disappear.</h3></blockquote>
