@@ -11,3 +11,4 @@ info(<item:minecraft:ender_eye>, "Using them in the portal doesn't work anymore,
 info(<item:explorerscompass:explorerscompass>,"Using this item no secrets are hidden! Has the ability to locate any structure");
 info(<item:tradingpost:trading_post>, "Trade with all nearby villagers at once with the Trading Post");
 info(<item:barteringstation:bartering_station>, "You can auto-barter with all nearby Piglins at once with this");
+info(<item:minecraft:spyglass>, "Want to zoom? Well i guess you have to have one of these first ");

@@ -2,20 +2,17 @@
   "schema_version": 1,
   "failed_reloads_per_session": 5,
   "default_packs": [
+    "file/Chat Reporting Helper.zip",
+    "file/EBE_1.20.x_v1.1.zip",
+    "file/EmbellishedStone-1.19.3-1.0.0.zip",
+    "file/Icon Xaero's 1.09.zip",
+    "file/BetterDiscs-1.0.zip",
+    "file/SodiumTranslations.zip",
     "beyond_vanillatweaks",
     "beyond_gui",
     "beyond_tips",
-    "file/Chat Reporting Helper.zip",
-    "file/EBE_1.20.x_v1.1.zip",
-    "continuity/default",
-    "continuity/glass_pane_culling_fix",
-    "file/EmbellishedStone-1.19.3-1.0.0.zip",
-    "elytra-trims-extensions/more-armor-trims",
     "$polymer-resources",
-    "beyond_vanillatweaks",
-    "file/Icon Xaero's 1.09.zip",
-    "file/BetterDiscs-1.0.zip",
-    "file/SodiumTranslations.zip"
+    "elytra-trims-extensions/more-armor-trims"
   ],
   "default_overrides": {
     "force_compatible": true
@@ -23,20 +20,20 @@
   "pack_overrides": {
     "vanilla": {
       "title": "\"Vanilla Assets\"",
-      "description": "\"Resource pack from Minecraft\""
+      "description": "\"Resource pack from Minecraft\"",
+      "fixed_position": true
     },
 
     "required_packs": [
-      "file/EBE_1.20.x_v1.1.zip",
-      "file/BetterDiscs-1.0.zip"
+      "file/Chat Reporting Helper.zip"
     ],
+
     "hidden_packs": [
       "$polymer-resources",
+      "spoornpacks",
       "beyond_vanillatweaks",
       "beyond_gui",
       "beyond_tips",
-      "file/Chat Reporting Helper.zip",
-      "Supplementaries Generated Pack",
       "Fabrication",
       "Fabrication grayscale",
       "elytra-trims-extensions/more-armor-trims",
@@ -46,13 +43,11 @@
       "programmer_art",
       "elytra-trims-extensions/flower-adornments",
       "supplementaries/darker_ropes",
-      "linkedstorage/enderstorage",
-      "continuity/glass_pane_culling_fix",
-      "file/EmbellishedStone-1.19.3-1.0.0.zip",
-      "file/Icon Xaero's 1.09.zip",
-      "Everycomp Generated Pack",
-      "Suppsquared Generated Pack",
       "Moonlight Mods Dynamic Assets",
+      "high_contrast"
+    ],
+    "hidden_and_req_packs":[
+      "file/Icon Xaero's 1.09.zip",
       "file/SodiumTranslations.zip"
     ],
 
@@ -60,6 +55,11 @@
       "required": true
     },
     "$hidden_packs": {
+      "hidden": true
+    },
+
+    "$hidden_and_req_packs": {
+      "required": true,
       "hidden": true
     }
   }

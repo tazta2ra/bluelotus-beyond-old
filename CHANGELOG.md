@@ -1,14 +1,18 @@
 # Changelog
 <hr>
-
+                          
 #  0.3.1
 
-## Changed:
+## Changes:
 
 - Fixed Regions Unexplored + Good Wood compat
 - Regions Unexplored 0.5.0 update
-- Updated mods
+- General performance improvements  
+- Play with your friends without a server with e4mc LAN
 - Now the pack runs again with 2000MB RAM
+- Fix various bugs on macOS and Linux
+- Added Rethinking Voxels Shader
+- Updated mods
 
 ## Added:
 
@@ -17,7 +21,22 @@
 - Fast Paintings
 - way2wayfabric
 - Language Reload
+- FastAnim
+- StairDoors Extended
+- Better Multishot
+- Trade Cycling
+- Trade Uses
+- e4mc
+- EmuNO
+- Fix Keyboard on Linux
 - Sodium Translations
+- Rethinking Voxels
+- ImmersiveThunder
+- Better Block Sounds
+
+## Removed: 
+
+- Archeology Plus (Textures are broken)
 
 ## Updated:
 
@@ -45,9 +64,6 @@
 - Elytra Trims Extensions
 - CraftTweaker
 - Carry On
-
-## Removed: 
-
 
 <hr>
 
@@ -283,5 +299,5 @@ First Beta release, missing some mods i want to include before 1.0.0
 #  0.0.0
 ## Changed:
 ## Added:
-## Updated:
 ## Removed: 
+## Updated:
