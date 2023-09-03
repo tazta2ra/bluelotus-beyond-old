@@ -2,7 +2,7 @@
 <br>
 
 <center>
-    <img src="https://raw.githubusercontent.com/tazta2ra/bluelotus-beyond/develop/assets/logo/title_border.png" alt="Blue Lotus : Beyond">
+    <img src="https://raw.githubusercontent.com/tazta2ra/bluelotus-beyond/main/assets/logo/title_border.png" alt="Blue Lotus : Beyond">
     <br>
     <h4>A vanilla+ modpack focused on exploration and adventure while enhancing vanilla gamplay with lots of Quality of Life improvements. </h4>
 </center>
