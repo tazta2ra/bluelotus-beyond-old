@@ -1,13 +1,13 @@
 name = "FriendlyFire"
-filename = "FriendlyFire-Fabric-1.20.1-18.0.3.jar"
+filename = "FriendlyFire-Fabric-1.20.1-18.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FTaA4pRW/versions/PLjf662O/FriendlyFire-Fabric-1.20.1-18.0.3.jar"
+url = "https://cdn.modrinth.com/data/FTaA4pRW/versions/V4wgOYRA/FriendlyFire-Fabric-1.20.1-18.0.4.jar"
 hash-format = "sha1"
-hash = "0df7ca37290f1b12cb1cab270ee8c83f7cce70a3"
+hash = "d726781d096c664e46ef2d34f1b74b96e4566a49"
 
 [update]
 [update.modrinth]
 mod-id = "FTaA4pRW"
-version = "PLjf662O"
+version = "V4wgOYRA"

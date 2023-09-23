@@ -1,0 +1,19 @@
+{
+    "name": "Changing your gender",
+    "icon": "artifacts:crystal_heart",
+    "sortnum": 1,
+    "category": "patchouli:customize",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The title says it all.$(br)$(br)You can set your gender by pressing $(k:key.wildfire_gender.gender_menu) to open the GUI"
+        },
+        {
+            "type": "patchouli:link",
+            "title": "Female Gender Mod:",
+            "text": "The mod's primary purpose is to add breasts to your Minecraft player to give it a more unique appearance than the generic model.",
+            "link_text": "Modrinth page" ,
+            "url": "https://modrinth.com/mod/female-gender"
+        }
+        ]
+    }

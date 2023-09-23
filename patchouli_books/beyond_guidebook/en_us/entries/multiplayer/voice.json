@@ -1,0 +1,22 @@
+{
+    "name": "Simple Voice Chat",
+    "icon": "minecraft:compass",
+    "sortnum": 7,
+    "category": "patchouli:multiplayer",
+    "pages": [
+
+        {
+            "type": "patchouli:link",
+            "text": "A proximity voice chat for Minecraft. You can choose between push to talk (PTT) or voice activation. The default PTT key is $(k:key.push_to_talk), but it can be changed in the key bind settings. You can access the voice chat settings by pressing the $(k:key.voice_chat) key.",
+            "link_text": "Modrinth page" ,
+            "url": "https://modrinth.com/plugin/simple-voice-chat"
+        },
+        {
+            "type": "patchouli:link",
+            "title": "Server side setup:",
+            "text": "Setting up your server for Simple Voice Chat requires a special networking setup. This is a little more complicated than setting up a normal Minecraft mod.$(br)$(br)It is absolutely crucial for the voice chat to work, so please follow the steps very carefully and thoroughly!",
+            "link_text": "Learn more" ,
+            "url": "https://modrepo.de/minecraft/voicechat/wiki/server_setup"
+        }
+        ]
+    }

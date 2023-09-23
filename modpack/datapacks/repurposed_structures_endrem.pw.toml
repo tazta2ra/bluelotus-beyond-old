@@ -1,0 +1,13 @@
+name = "End Remastered & Repurposed Structures compatibility"
+filename = "repurposed_structures_endrem.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/S8IRmJL3/versions/R3NkRvvV/repurposed_structures_endrem.zip"
+hash-format = "sha1"
+hash = "84b8892748a663368add549b8ce0c500365878c7"
+
+[update]
+[update.modrinth]
+mod-id = "S8IRmJL3"
+version = "R3NkRvvV"

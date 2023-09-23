@@ -1,0 +1,19 @@
+{
+    "name": "Server side Skins",
+    "icon": "minecraft:skeleton_skull",
+    "sortnum": 1,
+    "category": "patchouli:customize",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The modapack uses Fabric Tailor to set custom skins.$(br)$(br)You can set your skin by using the /skin command or pressing $(k:fabrictailor.toggle_skin_gui) to open the GUI"
+        },
+        {
+            "type": "patchouli:link",
+            "title": "Fabric Tailor:",
+            "text": "Fabric Tailor supports skin fetching via player's name as well as via URL. If you use player name, cape is fetched as well (if player has one). Not fan of existing skins? No problem, mod supports uploading skin from local storage as well.",
+            "link_text": "Modrinth page" ,
+            "url": "https://modrinth.com/mod/fabrictailor"
+        }
+        ]
+    }

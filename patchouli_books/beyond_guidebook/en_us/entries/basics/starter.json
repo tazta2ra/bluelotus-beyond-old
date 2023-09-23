@@ -1,0 +1,19 @@
+{
+    "name": "Starter Kit",
+    "icon": "pack_it_up:backpack",
+    "sortnum": 3,
+    "category": "patchouli:basics",
+    "pages": [
+
+        {
+            "type": "patchouli:text",
+            "text": "Having a difficult time? Bored? Well i have something for you! The Starter Kit is a group of useful items that at least every player should know about. $(br)$(br)To view the items search '101' or 'Starter Kit' in EMI"
+        },
+        {
+            "type": "patchouli:image",
+            "title": "EMI Info Pages",
+            "images": ["beyond:textures/patchouli/info.png"],
+            "border": true,
+            "text": "If you want to know more you can take a look at the helpful info pages in EMI."        }
+        ]
+    }

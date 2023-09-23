@@ -1,0 +1,13 @@
+name = "Better Multishot"
+filename = "bettermultishot-2.3.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/626Ed6yH/versions/5BpZLCMx/bettermultishot-2.3.2%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "5096c2241d1f8865d8a0b8bc269687f9c1f43594"
+
+[update]
+[update.modrinth]
+mod-id = "626Ed6yH"
+version = "5BpZLCMx"
