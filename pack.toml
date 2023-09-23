@@ -1,12 +1,12 @@
 name = "Blue Lotus - Beyond"
 author = "tazta2ra"
-version = "0.3.1-beta"
+version = "0.4.0-beta"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ee55c7b335f2ab2c6f5ea66b98df0537bcc14399d8513871ba665d4a0be42a4c"
+hash = "c6e19e14193f699cc2dd62253f9203461bb16a92f9a08a10a61240c2a01be305"
 
 [versions]
 minecraft = "1.20.1"

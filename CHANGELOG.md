@@ -1,25 +1,37 @@
 # Changelog
 <hr>
                           
-#  0.3.1
+#  0.4.0
 
 ## Changes:
 
 - Fixed Regions Unexplored + Good Wood compat
-- Regions Unexplored 0.5.0 update
-- General performance improvements  
+- Added a new Guidebook (WIP)
+- Huge Regions Unexplored update (0.5.x) 
+- YUNG's Better Update!
+- General performance improvements 
 - Play with your friends without a server with e4mc LAN
-- Now the pack runs again with 2000MB RAM
 - Fix various bugs on macOS and Linux
 - Added Rethinking Voxels Shader
 - Updated mods
 
 ## Added:
 
+- YUNG's API
+- YUNG's Better Desert Temples
+- YUNG's Better Dungeons
+- YUNG's Better Strongholds
+- YUNG's Better Mineshafts
+- YUNG's Better Ocean Monuments
+- YUNG's Better Nether Fortresses
+- YUNG's Better Jungle Temples
+- YUNG's Better Witch Huts
+- YUNG's Bridges
+- YUNG's Better End Island
+- Repurposed Structures Compat for YUNG's mods
 - Animal Feeding Trough
 - MmmMmmMmmMmm
 - Fast Paintings
-- way2wayfabric
 - Language Reload
 - FastAnim
 - StairDoors Extended
@@ -33,6 +45,17 @@
 - Rethinking Voxels
 - ImmersiveThunder
 - Better Block Sounds
+- Client Tweaks
+- Better Ladders
+- Armor Statues
+- Spelunker
+- Refined Advancements
+- Not Enough Recipe Book [NERB]
+- Telepistons
+- End Remastered & Repurposed Structures compatibility
+- Transferable Pets
+- Show Me What You Got
+
 
 ## Removed: 
 
@@ -64,6 +87,7 @@
 - Elytra Trims Extensions
 - CraftTweaker
 - Carry On
+- QSL
 
 <hr>
 

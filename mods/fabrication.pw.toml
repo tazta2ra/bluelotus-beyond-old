@@ -1,14 +1,13 @@
 name = "Fabrication"
-filename = "fabrication-3.3.1+1.20.jar"
+filename = "fabrication-3.3.12+1.20.jar"
 side = "both"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/B3Eg0WhA/versions/9nSI4Am1/fabrication-3.3.1%2B1.20.jar"
-hash-format = "sha512"
-hash = "e79b49245b4f3b5ede8ef43a97454b75f0145a04808286514fff4811ca785ee157aa6a453d7019dfbf927b4bebdd44ebd8d79063dabb8f6f75ffad2c5ae109fa"
+url = "https://cdn.modrinth.com/data/B3Eg0WhA/versions/9dY7XPCV/fabrication-3.3.12%2B1.20.jar"
+hash-format = "sha1"
+hash = "2207f95541ac3f6e47b3d4bfc88e52282b3a2223"
 
 [update]
 [update.modrinth]
 mod-id = "B3Eg0WhA"
-version = "9nSI4Am1"
+version = "9dY7XPCV"

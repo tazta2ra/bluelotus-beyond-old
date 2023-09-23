@@ -22,6 +22,23 @@
 		"text": [
 			"Ender Eyes"
 		]
+	},
+	{
+		"stacks": [
+			"item:origins:orb_of_origin",
+			"item:minecraft:spyglass",
+			"item:explorerscompass:explorerscompass{}",
+			"item:onastick:crafting_table_on_a_stick",
+			"item:chalk:chalk",
+			"item:expandedstorage:iron_chest",
+			"item:barteringstation:bartering_station",
+			"item:tradingpost:trading_post",
+			"item:comforts:hammock_white",
+			"item:comforts:sleeping_bag_white"
+		],
+		"text": [
+			"101", "Starter Kit" 
+		]
 	}
 ]
 }

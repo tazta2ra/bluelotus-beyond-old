@@ -1,14 +1,13 @@
 name = "Artifacts"
-filename = "artifacts-fabric-9.0.5.jar"
+filename = "artifacts-fabric-9.1.0.jar"
 side = "both"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/6DXOR2pO/artifacts-fabric-9.0.5.jar"
-hash-format = "sha512"
-hash = "36d5b166b217bacec14d7c784b014a16b21c15244e931506c59c454a95e91729d5794a831ddb4f49952c5a74a2e89dfe06a44830583cfc46ad83a4fe409bd573"
+url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/bfIQoQHe/artifacts-fabric-9.1.0.jar"
+hash-format = "sha1"
+hash = "30057509a92c65f70c23a67f8ec3f703b998cba4"
 
 [update]
 [update.modrinth]
 mod-id = "P0Mu4wcQ"
-version = "6DXOR2pO"
+version = "bfIQoQHe"

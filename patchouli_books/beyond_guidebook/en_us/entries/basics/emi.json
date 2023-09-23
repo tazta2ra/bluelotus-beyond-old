@@ -1,0 +1,25 @@
+{
+    "name": "Discover new content",
+    "icon": "minecraft:writable_book",
+    "sortnum": 1,
+    "category": "patchouli:basics",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "EMI",
+            "text": "To find new blocks and discover new content you can use EMI.$(br)$(br)EMI is located at the left and right side of your inventory screen.$(br)$(br)To learn more on how to use it read the next page... "
+        }, 
+{
+            "type": "patchouli:image",
+            "title": "EMI",
+            "images": ["beyond:textures/patchouli/emi.png"],
+            "border": false,
+            "text": "EMI with the search term $(#1A5FB4)'blue'$()."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "How to EMI",
+            "text": "With the search bar at the center bottom you can search every item incuded in the modpack.$(br)$(br)You can $(#1A5FB4)left click$() to see how to craft the item and $(#A51D2D)right click$() to show  what you can craft from it.   "
+        }
+        ]
+    }

@@ -1,0 +1,22 @@
+{
+    "name": "Ears, tails and more...",
+    "icon": "regions_unexplored:cattail",
+    "sortnum": 2,
+    "category": "patchouli:customize",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "title": "Ears:",
+            "text": "With Ears you can add many more details to your skin.$(br)$(br)Ears is a Minecraft mod that adds ears, snouts, tails, horns, wings, and more to the player.",
+            "link_text": "Modrinth page" ,
+            "url": "https://modrinth.com/mod/ears"
+        },
+        {
+            "type": "patchouli:link",
+            "text": "If you want to use these features you can add them to your skin using the 'Ears Manipulator' website. If you do not do this, no Ears features will appear in-game. There is no in-game configuration GUI or anything for Ears, all the options are encoded into the skin files. ",
+            "link_text": "Ears Manipulator" ,
+            "url": "https://ears.unascribed.com/manipulator/"
+        }
+
+        ]
+    }

@@ -1,0 +1,19 @@
+{
+    "name": "Chunk claims",
+    "icon": "minecraft:iron_shovel",
+    "sortnum": 4,
+    "category": "patchouli:multiplayer",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You can claim chunks by using the /openpac-claims command, pressing $(k:gui.xaero_pac_key_open_menu) or right clicking on a tile in the World Map then selecting the 'Claim selected' option."
+        },
+        {
+            "type": "patchouli:link",
+            "title": "Open Parties and Claims:",
+            "text": "This mod adds the ability to claim and to forceload world chunks, as well as create and manage player parties. It also gives server owners powerful controls over their players' usage of the mod's features.",
+            "link_text": "Modrinth page" ,
+            "url": "https://modrinth.com/mod/open-parties-and-claims"
+        }
+        ]
+    }

@@ -1,0 +1,8 @@
+{
+    "name": "Character customization",
+    "description": "This modpack features many customization options for the player character.",
+    "icon": "minecraft:player_head",
+    "parent": "patchouli:multiplayer",
+    "sortnum": 1
+
+}
