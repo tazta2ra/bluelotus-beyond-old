@@ -1,0 +1,17 @@
+name = "Blue Lotus - Beyond"
+author = "tazta2ra"
+version = "0.4.0-beta"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "647800a5aece530537522f1c98aca57289fb0731b97e1b905e6c815c8df69b49"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.20.2"
+
+[options]
+acceptable-game-versions = ["1.20", "1.20.1"]
+datapack-folder = "modpack/datapacks"
